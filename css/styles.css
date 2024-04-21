@@ -1,0 +1,21 @@
+  body {
+    padding: 24px 156px;
+  }
+  
+  ul {
+    list-style: none;
+  } 
+  
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  
+  .gallery-image {
+    max-width: 360px;
+  }
+  
+  .image-background {
+    background-color: rgba(46, 47, 66, 0.8);
+  }
